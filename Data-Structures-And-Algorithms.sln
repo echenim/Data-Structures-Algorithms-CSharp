@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting-BubbleSort", "Sorting-BubbleSort\Sorting-BubbleSort.csproj", "{C52522DA-E241-46B3-8104-856278972BC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyAlgorithm-KnapsackProblem", "GreedyAlgorithm-KnapsackProblem\GreedyAlgorithm-KnapsackProblem.csproj", "{C1E1CB89-B659-42E3-9CF0-564B1FFDB203}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C52522DA-E241-46B3-8104-856278972BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C52522DA-E241-46B3-8104-856278972BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C52522DA-E241-46B3-8104-856278972BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E1CB89-B659-42E3-9CF0-564B1FFDB203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E1CB89-B659-42E3-9CF0-564B1FFDB203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E1CB89-B659-42E3-9CF0-564B1FFDB203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E1CB89-B659-42E3-9CF0-564B1FFDB203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
